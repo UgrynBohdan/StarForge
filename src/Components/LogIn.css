@@ -1,0 +1,331 @@
+
+.LogIn_LogIn {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 125%;
+	height: 125vh;
+	overflow: auto;
+	background: linear-gradient(90deg, rgba(182, 46, 216, 1.00) 0.0%, rgba(35, 9, 193, 1.00) 100.0%);
+}
+.LogIn_LogIn .image2 {
+	position: absolute;
+	left: 904.99999463558197px;
+	top: 131px;
+	width: 962.6603951454163px;
+	height: 710.6843295097351px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 109px;
+	transform: rotate(18deg);
+}
+.LogIn_LogIn .FieldofSignUp {
+	position: absolute;
+	transform: translate(40%, 0%);
+	left: 435px;
+	top: 142px;
+	width: 570px;
+	height: 796px;
+}
+.LogIn_LogIn .FieldofSignUp .Field {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 570px;
+	height: 796px;
+	background: linear-gradient(90deg, rgba(35, 9, 193, 1.00) 0.0%, rgba(14, 165, 165, 0.74) 100.0%);
+	border-radius: 50px;
+}
+.LogIn_LogIn .FieldofSignUp .Password {
+	position: absolute;
+	left: 50.071603875411185%;
+	top: 365px;
+	transform: translate(-50%, 0);
+	width: 518.8162841796875px;
+	height: 100px;
+	border-radius: 17px;
+}
+.LogIn_LogIn .FieldofSignUp .Password .Password_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 129px;
+	height: 24px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: 600;
+	line-height: 24px;
+}
+.LogIn_LogIn .FieldofSignUp .Password .fieldem {
+	position: absolute;
+	left: 0.1767578125px;
+	top: 37px;
+	width: 518.6395263671875px;
+	height: 63px;
+	border-radius: 17px;
+}
+.LogIn_LogIn .FieldofSignUp .Password .fieldem .Rectangle4 {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 518.6395263671875px;
+	height: 63px;
+	background: rgba(217,217,217,0.91);
+	border-radius: 17px;
+}
+.LogIn_LogIn .FieldofSignUp .Password .fieldem .password {
+	position: absolute;
+	left: 49.02911364548409%;
+	top: 49.2063492063492%;
+	transform: translate(-50%, -50%);
+	width: 482.3851318359375px;
+	height: 24px;
+	color: rgba(134,134,134,0.57);
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 24px;
+	outline: none;
+	border: none;
+  	background: none;
+}
+.LogIn_LogIn .FieldofSignUp .Password .fieldem .password:focus {
+    color: black; /* Колір тексту стає чорним при фокусі */
+}
+
+.LogIn_LogIn .FieldofSignUp .Sign_up {
+	position: absolute;
+	left: 29%;
+	top: 60%;
+	transform: translate(-50%, 0);
+	width: 265.86572265625px;
+	height: 36px;
+	color: rgba(3,255,180,1.00);
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: 500;
+	/* font-style: italic; */
+	line-height: 36px;
+}
+
+.LogIn_LogIn .FieldofSignUp .WelcomeBack {
+	position: absolute;
+	left: 43.14611602247807%;
+	top: 64px;
+	transform: translate(-50%, 0);
+	width: 265.86572265625px;
+	height: 36px;
+	color: rgba(3,255,180,1.00);
+	font-family: Inter;
+	font-size: 36px;
+	font-weight: 500;
+	font-style: italic;
+	line-height: 36px;
+}
+.LogIn_LogIn .FieldofSignUp .Calltoaction {
+	position: absolute;
+	left: 49.9420380174068%;
+	top: 651px;
+	transform: translate(-50%, 0);
+	width: 333.3392333984375px;
+	height: 97px;
+	border-radius: 75px;
+}
+.LogIn_LogIn .FieldofSignUp .Calltoaction .Rectangle2 {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 333.3392333984375px;
+	height: 97px;
+	background: linear-gradient(90deg, rgba(26, 147, 153, 0.77) 0.0%, rgba(3, 240, 255, 1.00) 100.0%);
+	border-radius: 75px;
+}
+.LogIn_LogIn .FieldofSignUp .Calltoaction .LogIn_1 {
+	position: absolute;
+	left: 49.90300388359825%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 98.69258117675781px;
+	height: 31px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: 600;
+	line-height: 32px;
+}
+.LogIn_LogIn .FieldofSignUp .Email {
+	position: absolute;
+	left: 49.89616527891996%;
+	top: 212px;
+	transform: translate(-50%, 0);
+	width: 518.8162841796875px;
+	height: 100px;
+	border-radius: 17px;
+}
+.LogIn_LogIn .FieldofSignUp .Email .Email_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 63.445228576660156px;
+	height: 24px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: 600;
+	line-height: 24px;
+}
+.LogIn_LogIn .FieldofSignUp .Email .fieldem {
+	position: absolute;
+	left: 0.1767578125px;
+	top: 37px;
+	width: 518.6395263671875px;
+	height: 63px;
+	border-radius: 17px;
+}
+.LogIn_LogIn .FieldofSignUp .Email .fieldem .Rectangle4 {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 518.6395263671875px;
+	height: 63px;
+	background: rgba(217,217,217,0.91);
+	border-radius: 17px;
+}
+.LogIn_LogIn .FieldofSignUp .Email .fieldem .email {
+	position: absolute;
+	left: 49.02911364548409%;
+	top: 49.2063492063492%;
+	transform: translate(-50%, -50%);
+	width: 482.3851318359375px;
+	height: 24px;
+	color: rgba(134,134,134,0.57);
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 24px;
+	outline: none;
+	border: none;
+  	background: none;
+}
+.LogIn_LogIn .FieldofSignUp .Email .fieldem .email:focus {
+    color: black; /* Колір тексту стає чорним при фокусі */
+}
+
+.LogIn_LogIn .FieldofSignUp .Logo0 {
+	position: absolute;
+	left: 81.83028371710527%;
+	top: 10.364321608040202%;
+	transform: translate(-50%, -50%);
+	width: 109px;
+	height: 109px;
+}
+.LogIn_LogIn .FieldofSignUp .Logo0 .Ellipse4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 109px;
+	height: 109px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	background-size: cover;
+}
+.LogIn_LogIn .FieldofSignUp .Logo0 .image3 {
+	position: absolute;
+	left: -13.75732421875px;
+	top: 0px;
+	width: 137.57281494140625px;
+	height: 109px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.LogIn_LogIn ._ {
+	position: absolute;
+	left: 50%;
+	top: 1009px;
+	transform: translate(-50%, 0);
+	width: 1178px;
+	height: 34px;
+}
+.LogIn_LogIn ._ ._2024UkraineLvivAllrightsreserved {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 309px;
+	height: 18px;
+	color: rgba(162,178,196,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 16px;
+}
+.LogIn_LogIn ._ .Contus {
+	position: absolute;
+	left: 887px;
+	top: 1px;
+	width: 291px;
+	height: 33px;
+}
+.LogIn_LogIn ._ .Contus .Contactus {
+	position: absolute;
+	left: 0px;
+	top: 5px;
+	width: 216px;
+	height: 28px;
+	color: rgba(162,178,196,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 16px;
+}
+.LogIn_LogIn ._ .Contus .socialfooter {
+	position: absolute;
+	left: 115px;
+	top: 0px;
+	width: 176px;
+	height: 26px;
+	display: flex;
+	box-sizing: border-box;
+}
+.LogIn_LogIn ._ .Contus .socialfooter .image4 {
+	position: relative;
+	flex: none;
+	margin-right: 24px;
+	width: 26px;
+	height: 26px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.LogIn_LogIn ._ .Contus .socialfooter .image5 {
+	position: relative;
+	flex: none;
+	margin-right: 24px;
+	width: 26px;
+	height: 26px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.LogIn_LogIn ._ .Contus .socialfooter .image6 {
+	position: relative;
+	flex: none;
+	margin-right: 24px;
+	width: 26px;
+	height: 26px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.LogIn_LogIn ._ .Contus .socialfooter .image7 {
+	position: relative;
+	flex: none;
+	margin-right: 24px;
+	width: 26px;
+	height: 26px;
+	object-fit: cover;
+	overflow: hidden;
+}

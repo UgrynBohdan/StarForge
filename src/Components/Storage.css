@@ -1,0 +1,1138 @@
+
+.Storage_Storage {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 125%;
+	height: 125vh;
+	overflow: auto;
+	background: linear-gradient(90deg, rgba(182, 46, 216, 1.00) 0.0%, rgba(35, 9, 193, 1.00) 100.0%);
+}
+.Storage_Storage .image2 {
+	position: absolute;
+	left: 904.99999463558197px;
+	top: 131px;
+	width: 962.6603951454163px;
+	height: 710.6843295097351px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 109px;
+	transform: rotate(18deg);
+}
+
+
+.Storage_Storage .Heder {
+	position: absolute;
+	left: 50.015576680501304%;
+	top: 46.1512451171875px;
+	transform: translate(-50%, 0);
+	width: 1170.4486083984375px;
+	height: 103px;
+}
+.Storage_Storage .Heder .navigation {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 592.7225341796875px;
+	height: 103px;
+}
+.Storage_Storage .Heder .navigation .Logo0 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 103.1763687133789px;
+	height: 103px;
+}
+.Storage_Storage .Heder .navigation .Logo0 .Ellipse4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 103.1763687133789px;
+	height: 103px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 50%;
+}
+.Storage_Storage .Heder .navigation .Logo0 .image3 {
+	position: absolute;
+	left: -13.022216796875px;
+	top: 0px;
+	width: 130.22259521484375px;
+	height: 103px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Storage_Storage .Heder .navigation .Menu {
+	position: absolute;
+	left: 170px;
+	top: 41px;
+	width: 422.7225341796875px;
+	height: 21.09375px;
+}
+.Storage_Storage .Heder .navigation .Menu .Home {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 15.165880942885861%;
+	height: 100%;
+	color: rgba(254,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Heder .navigation .Menu .Storage_1 {
+	position: absolute;
+	left: 109.1865234375px;
+	top: 0px;
+	width: 19.19433123790949%;
+	height: 100%;
+	color: rgba(110,177,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Heder .navigation .Menu .Help {
+	position: absolute;
+	left: 235.4024658203125px;
+	top: 0px;
+	width: 11.137436062331952%;
+	height: 100%;
+	color: rgba(254,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Heder .navigation .Menu .AboutUs {
+	position: absolute;
+	left: 327.559814453125px;
+	top: 0px;
+	width: 22.511847220702162%;
+	height: 100%;
+	color: rgba(254,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Heder .LogIn {
+	position: absolute;
+	left: 908px;
+	top: 24px;
+	width: 262.4486389160156px;
+	height: 55px;
+	border-radius: 26px;
+}
+.Storage_Storage .Heder .LogIn .Rectangle1 {
+	position: absolute;
+	left: 70%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 362.4486389160156px;
+	height: 55px;
+	background: linear-gradient(90deg, rgba(3, 240, 255, 1.00) 0.0%, rgba(26, 147, 153, 0.77) 100.0%);
+	border-radius: 26px;
+}
+.Storage_Storage .Heder .LogIn .Emailgmailcom {
+	position: absolute;
+	left: 45px;
+	top: 18px;
+	width: 172.29452514648438px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+	outline: none;
+	border: none;
+  	background: none;
+}
+.Storage_Storage .Window {
+	position: absolute;
+	left: 50%;
+	top: 401.1512451171875px;
+	transform: translate(-50%, 0);
+	width: 1172px;
+	height: 507px;
+}
+.Storage_Storage .Window .Rectangle5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1170px;
+	height: 507px;
+	background: rgba(217,217,217,0.00);
+	border: 1px solid rgba(3.399948072619736,239.90403324365616,255,1);
+	box-sizing: border-box;
+}
+.Storage_Storage .Window .Line1 {
+	position: absolute;
+	left: 1px;
+	top: 87.00000014751004px;
+	width: 1170.9999453301352px;
+	height: 2.999999852489964px;
+	/* border: 0px solid rgba(3.399948072619736,239.90403324365616,255,1); */
+}
+.Storage_Storage .Window .Description {
+	position: absolute;
+	left: 168px;
+	top: 38px;
+	width: 874px;
+	height: 20px;
+}
+.Storage_Storage .Window .Description .Name {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 57px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Window .Description .Changedate {
+	position: absolute;
+	left: 390px;
+	top: 0px;
+	width: 200px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Window .Description .Type {
+	position: absolute;
+	left: 633px;
+	top: 0px;
+	width: 48px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Window .Description .Size {
+	position: absolute;
+	left: 833px;
+	top: 0px;
+	width: 41px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+
+/* / */
+.Storage_Storage .Window .Files {
+    position: absolute;
+    left: 101px;
+    top: 119px;
+    width: 1034px;
+    /* Додаємо flexbox для вертикального розташування */
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Відстань між файлами */
+}
+
+.Storage_Storage .Window .Files .catpng {
+    position: relative;
+    width: 100%;
+    height: 43px;
+}
+
+.Storage_Storage .Window .Files .catpng .Rectangle6 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 43px;
+    background: rgba(0, 255, 163, 0.76);
+    border-radius: 7px;
+}
+
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 {
+    position: absolute;
+    left: 24px;
+    top: 9px;
+    width: 26px;
+    height: 26px;
+}
+
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 .Vector {
+    position: absolute;
+    left: 0.249px;
+    top: 12.291px;
+    width: 87.603%;
+    height: 52.727%;
+}
+
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 .Group {
+    position: absolute;
+    left: 1.005px;
+    top: 0.755px;
+    width: 92.271%;
+    height: 71.916%;
+}
+
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 .Group .Vector_1 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 32.977%;
+    height: 44.064%;
+}
+
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 .Group .Vector_2 {
+    position: absolute;
+    left: 8.956px;
+    top: 10.388px;
+    width: 62.668%;
+    height: 44.445%;
+}
+
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 .Group_1 {
+    position: absolute;
+    left: 0.249px;
+    top: 0;
+    width: 98.083%;
+    height: 77.726%;
+}
+
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 .Group_1 .Vector_3 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 .Group_1 .Vector_4 {
+    position: absolute;
+    left: 11.891px;
+    top: 12.935px;
+    width: 12.763%;
+    height: 23.499%;
+}
+
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 .Group_1 .Vector_5 {
+    position: absolute;
+    left: 15.587px;
+    top: 12.935px;
+    width: 13.018%;
+    height: 23.500%;
+}
+
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 .Group_1 .Vector_6 {
+    position: absolute;
+    left: 19.556px;
+    top: 12.935px;
+    width: 12.508%;
+    height: 23.692%;
+}
+
+.Storage_Storage .Window .Files .catpng ._110320241112 {
+    position: absolute;
+    left: 450px;
+    top: 12px;
+    width: 300px;
+    height: 20px;
+    color: rgba(255, 255, 255, 1.00);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.Storage_Storage .Window .Files .catpng .png {
+    position: absolute;
+    left: 700px;
+    top: 12px;
+    width: 200px;
+    height: 20px;
+    color: rgba(255, 255, 255, 1.00);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.Storage_Storage .Window .Files .catpng ._65KB {
+    position: absolute;
+    left: 906px;
+    top: 50%;
+    transform: translate(0, -50%);
+    width: 120px;
+    height: 20px;
+    color: rgba(255, 255, 255, 1.00);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.Storage_Storage .Window .Files .catpng .catpng_1 {
+    position: absolute;
+    left: 70px;
+    top: 12px;
+    width: 370px;
+    height: 20px;
+    color: rgba(255, 255, 255, 1.00);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.Storage_Storage .Window .Files .catpng .button_dow {
+    position: absolute;
+    left: -90px;
+    top: 0px;
+    padding: 5px 10px;
+    /* background-color: #007bff; */
+    /* border: none; */
+    /* border-radius: 5px; */
+    cursor: pointer;
+
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 11px;
+	line-height: 100%;
+	/* identical to box height, or 11px */
+
+	color: #FFFFFF;
+
+	background: linear-gradient(99.35deg, #2309C1 14.24%, #B62ED8 90.34%);
+	border-radius: 13px;
+}
+
+.Storage_Storage .Window .Files .catpng .button_dow:hover {
+    background: linear-gradient(99.35deg, #B62ED8 14.24%, #2309C1 90.34%);
+}
+
+.Storage_Storage .Window .Files .catpng .button_del {
+    position: absolute;
+    left: -80px;
+    top: 25px;
+    padding: 5px 10px;
+    /* background-color: #007bff; */
+    /* border: none; */
+    /* border-radius: 5px; */
+    cursor: pointer;
+
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 11px;
+	line-height: 100%;
+	/* identical to box height, or 11px */
+
+	color: #FFFFFF;
+
+	background: linear-gradient(99.35deg, #c10909 14.24%, #ffffff 90.34%);
+	border-radius: 13px;
+}
+
+.Storage_Storage .Window .Files .catpng .button_del:hover {
+    background: linear-gradient(99.35deg, #ffffff 14.24%, #c10909 90.34%);
+}
+
+
+
+
+
+/* .Storage_Storage .Window .Files {
+	position: absolute;
+	left: 101px;
+	top: 119px;
+	width: 1034px;
+	height: 268px;
+}
+.Storage_Storage .Window .Files .catpng {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1034px;
+	height: 43px;
+}
+.Storage_Storage .Window .Files .catpng .Rectangle6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1034px;
+	height: 43px;
+	background: rgba(0,255,163,0.76);
+	border-radius: 7px;
+}
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 {
+	position: absolute;
+	left: 24px;
+	top: 9px;
+	width: 26px;
+	height: 26px;
+}
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 .Vector {
+	position: absolute;
+	left: 0.2493896484375px;
+	top: 12.2911376953125px;
+	width: 87.60253466092624%;
+	height: 52.72656954251803%;
+}
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 .Group {
+	position: absolute;
+	left: 1.0047607421875px;
+	top: 0.75537109375px;
+	width: 92.27147469153772%;
+	height: 71.91581726074219%;
+}
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 .Group .Vector_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 32.9773731463133%;
+	height: 44.06356355621167%;
+}
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 .Group .Vector_2 {
+	position: absolute;
+	left: 8.956298828125px;
+	top: 10.3878173828125px;
+	width: 62.66770286950006%;
+	height: 44.44486777577435%;
+}
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 .Group_1 {
+	position: absolute;
+	left: 0.249267578125px;
+	top: 0px;
+	width: 98.08281384981595%;
+	height: 77.7255865243765%;
+}
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 .Group_1 .Vector_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 .Group_1 .Vector_4 {
+	position: absolute;
+	left: 11.8905029296875px;
+	top: 12.934814453125px;
+	width: 12.762856122673893%;
+	height: 23.499136963936532%;
+}
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 .Group_1 .Vector_5 {
+	position: absolute;
+	left: 15.5870361328125px;
+	top: 12.9346923828125px;
+	width: 13.017936526801089%;
+	height: 23.49963955219528%;
+}
+.Storage_Storage .Window .Files .catpng .pngsvgrepocom1 .Group_1 .Vector_6 {
+	position: absolute;
+	left: 19.556396484375px;
+	top: 12.934814453125px;
+	width: 12.508162774874501%;
+	height: 23.69237861007023%;
+}
+.Storage_Storage .Window .Files .catpng ._110320241112 {
+	position: absolute;
+	left: 300px;
+	top: 12px;
+	width: 180px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Window .Files .catpng .png {
+	position: absolute;
+	left: 600px;
+	top: 12px;
+	width: 38px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Window .Files .catpng ._65KB {
+	position: absolute;
+	left: 906px;
+	top: 51.162790697674424%;
+	transform: translate(0, -50%);
+	width: 70px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Window .Files .catpng .catpng_1 {
+	position: absolute;
+	left: 70px;
+	top: 12px;
+	width: 74px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+} */
+/* / */
+/* .Storage_Storage .Window .Files .catxlsx {
+	position: absolute;
+	left: 0px;
+	top: 81px;
+	width: 1034px;
+	height: 43px;
+}
+.Storage_Storage .Window .Files .catxlsx .Rectangle6_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1034px;
+	height: 43px;
+	background: rgba(0,255,163,0.76);
+	border-radius: 7px;
+}
+.Storage_Storage .Window .Files .catxlsx .excelsvgrepocom1 {
+	position: absolute;
+	left: 24px;
+	top: 8px;
+	width: 26px;
+	height: 26px;
+}
+.Storage_Storage .Window .Files .catxlsx .excelsvgrepocom1 .Vector_7 {
+	position: absolute;
+	left: 0.249267578125px;
+	top: 12.2911376953125px;
+	width: 87.60253466092624%;
+	height: 52.72656587453989%;
+}
+.Storage_Storage .Window .Files .catxlsx .excelsvgrepocom1 .Group_2 {
+	position: absolute;
+	left: 1.0047607421875px;
+	top: 0.75537109375px;
+	width: 92.27148202749399%;
+	height: 71.91581726074219%;
+}
+.Storage_Storage .Window .Files .catxlsx .excelsvgrepocom1 .Group_2 .Vector_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 32.97758319780543%;
+	height: 44.0635584558342%;
+}
+.Storage_Storage .Window .Files .catxlsx .excelsvgrepocom1 .Group_2 .Vector_9 {
+	position: absolute;
+	left: 8.956298828125px;
+	top: 10.3878173828125px;
+	width: 62.66769391196168%;
+	height: 44.44486777577435%;
+}
+.Storage_Storage .Window .Files .catxlsx .excelsvgrepocom1 .Group_3 {
+	position: absolute;
+	left: 0.2493896484375px;
+	top: 0px;
+	width: 98.08222697331355%;
+	height: 77.7255865243765%;
+}
+.Storage_Storage .Window .Files .catxlsx .excelsvgrepocom1 .Group_3 .Vector_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Storage_Storage .Window .Files .catxlsx .excelsvgrepocom1 .Group_3 .Vector_11 {
+	position: absolute;
+	left: 11.1304931640625px;
+	top: 13.2611083984375px;
+	width: 12.584106721379932%;
+	height: 20.55382583396145%;
+}
+.Storage_Storage .Window .Files .catxlsx .excelsvgrepocom1 .Group_3 .Vector_12 {
+	position: absolute;
+	left: 14.685791015625px;
+	top: 13.294677734375px;
+	width: 9.404376021451501%;
+	height: 20.222388933657783%;
+}
+.Storage_Storage .Window .Files .catxlsx .excelsvgrepocom1 .Group_3 .Vector_13 {
+	position: absolute;
+	left: 17.2403564453125px;
+	top: 13.2611083984375px;
+	width: 10.763851258187412%;
+	height: 20.665152672627503%;
+}
+.Storage_Storage .Window .Files .catxlsx .excelsvgrepocom1 .Group_3 .Vector_14 {
+	position: absolute;
+	left: 20.1585693359375px;
+	top: 13.2611083984375px;
+	width: 12.584309599944413%;
+	height: 20.55382583396145%;
+}
+.Storage_Storage .Window .Files .catxlsx ._120320241311 {
+	position: absolute;
+	left: 300px;
+	top: 11px;
+	width: 180px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Window .Files .catxlsx .xlsx {
+	position: absolute;
+	left: 600px;
+	top: 11px;
+	width: 39px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Window .Files .catxlsx ._112KB {
+	position: absolute;
+	left: 900px;
+	top: 48.837209302325576%;
+	transform: translate(0, -50%);
+	width: 80px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Window .Files .catxlsx .catxlsx_1 {
+	position: absolute;
+	left: 70px;
+	top: 11px;
+	width: 76px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Window .Files .catdocx {
+	position: absolute;
+	left: 0px;
+	top: 153px;
+	width: 1034px;
+	height: 43px;
+}
+.Storage_Storage .Window .Files .catdocx .Rectangle6_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1034px;
+	height: 43px;
+	background: rgba(0,255,163,0.76);
+	border-radius: 7px;
+}
+.Storage_Storage .Window .Files .catdocx .wordsvgrepocom1 {
+	position: absolute;
+	left: 24px;
+	top: 8px;
+	width: 26px;
+	height: 26px;
+}
+.Storage_Storage .Window .Files .catdocx .wordsvgrepocom1 .Vector_15 {
+	position: absolute;
+	left: 0.2493896484375px;
+	top: 12.2911376953125px;
+	width: 87.60254199688251%;
+	height: 52.72656954251803%;
+}
+.Storage_Storage .Window .Files .catdocx .wordsvgrepocom1 .Group_4 {
+	position: absolute;
+	left: 1.0047607421875px;
+	top: 0.75537109375px;
+	width: 92.27148202749399%;
+	height: 71.91581726074219%;
+}
+.Storage_Storage .Window .Files .catdocx .wordsvgrepocom1 .Group_4 .Vector_16 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 32.977372512079846%;
+	height: 44.0635584558342%;
+}
+.Storage_Storage .Window .Files .catdocx .wordsvgrepocom1 .Group_4 .Vector_17 {
+	position: absolute;
+	left: 8.956298828125px;
+	top: 10.3878173828125px;
+	width: 62.66769788716404%;
+	height: 44.44486777577435%;
+}
+.Storage_Storage .Window .Files .catdocx .wordsvgrepocom1 .Group_5 {
+	position: absolute;
+	left: 0.249267578125px;
+	top: 0px;
+	width: 98.08262311495267%;
+	height: 77.72557918842023%;
+}
+.Storage_Storage .Window .Files .catdocx .wordsvgrepocom1 .Group_5 .Vector_18 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Storage_Storage .Window .Files .catdocx .wordsvgrepocom1 .Group_5 .Vector_19 {
+	position: absolute;
+	left: 12.1602783203125px;
+	top: 12.8939208984375px;
+	width: 12.217258542387164%;
+	height: 22.95335423660234%;
+}
+.Storage_Storage .Window .Files .catdocx .wordsvgrepocom1 .Group_5 .Vector_20 {
+	position: absolute;
+	left: 15.8531494140625px;
+	top: 12.8939208984375px;
+	width: 12.217658688354428%;
+	height: 23.14181777271173%;
+}
+.Storage_Storage .Window .Files .catdocx .wordsvgrepocom1 .Group_5 .Vector_21 {
+	position: absolute;
+	left: 19.552734375px;
+	top: 12.8939208984375px;
+	width: 12.21745300584789%;
+	height: 23.14181777271173%;
+}
+.Storage_Storage .Window .Files .catdocx ._130220241522 {
+	position: absolute;
+	left: 300px;
+	top: 11px;
+	width: 180px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Window .Files .catdocx .docx {
+	position: absolute;
+	left: 600px;
+	top: 11px;
+	width: 48px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Window .Files .catdocx ._512KB {
+	position: absolute;
+	left: 900px;
+	top: 48.837209302325576%;
+	transform: translate(0, -50%);
+	width: 80px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Window .Files .catdocx .catdocx_1 {
+	position: absolute;
+	left: 70px;
+	top: 11px;
+	width: 84px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Window .Files .catpdf {
+	position: absolute;
+	left: 0px;
+	top: 225px;
+	width: 1034px;
+	height: 43px;
+}
+.Storage_Storage .Window .Files .catpdf .Rectangle6_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1034px;
+	height: 43px;
+	background: rgba(0,255,163,0.76);
+	border-radius: 7px;
+}
+.Storage_Storage .Window .Files .catpdf .pdfsvgrepocom1 {
+	position: absolute;
+	left: 24px;
+	top: 8px;
+	width: 26px;
+	height: 26px;
+}
+.Storage_Storage .Window .Files .catpdf .pdfsvgrepocom1 .Vector_22 {
+	position: absolute;
+	left: 0.3262939453125px;
+	top: 12.295654296875px;
+	width: 87.07324541532077%;
+	height: 52.709183326134315%;
+}
+.Storage_Storage .Window .Files .catpdf .pdfsvgrepocom1 .Group_6 {
+	position: absolute;
+	left: 1.0771484375px;
+	top: 0.7508544921875px;
+	width: 91.71601075392502%;
+	height: 71.94374524630032%;
+}
+.Storage_Storage .Window .Files .catpdf .pdfsvgrepocom1 .Group_6 .Vector_23 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 32.97713364874838%;
+	height: 44.062747813985574%;
+}
+.Storage_Storage .Window .Files .catpdf .pdfsvgrepocom1 .Group_6 .Vector_24 {
+	position: absolute;
+	left: 8.902587890625px;
+	top: 10.391845703125px;
+	width: 62.666692901929636%;
+	height: 44.44444444444444%;
+}
+.Storage_Storage .Window .Files .catpdf .pdfsvgrepocom1 .Group_7 {
+	position: absolute;
+	left: 0.3262939453125px;
+	top: 0px;
+	width: 97.49042804424579%;
+	height: 77.71699611957257%;
+}
+.Storage_Storage .Window .Files .catpdf .pdfsvgrepocom1 .Group_7 .Vector_25 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Storage_Storage .Window .Files .catpdf .pdfsvgrepocom1 .Group_7 .Vector_26 {
+	position: absolute;
+	left: 12.169921875px;
+	top: 12.93505859375px;
+	width: 12.763071587301637%;
+	height: 23.509023943119413%;
+}
+.Storage_Storage .Window .Files .catpdf .pdfsvgrepocom1 .Group_7 .Vector_27 {
+	position: absolute;
+	left: 15.8441162109375px;
+	top: 12.93505859375px;
+	width: 12.508440940431%;
+	height: 23.509783808412756%;
+}
+.Storage_Storage .Window .Files .catpdf .pdfsvgrepocom1 .Group_7 .Vector_28 {
+	position: absolute;
+	left: 19.6539306640625px;
+	top: 12.93505859375px;
+	width: 11.769985633658594%;
+	height: 23.50927644494049%;
+}
+.Storage_Storage .Window .Files .catpdf ._230220242256 {
+	position: absolute;
+	left: 300px;
+	top: 11px;
+	width: 190px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Window .Files .catpdf .pdf {
+	position: absolute;
+	left: 600px;
+	top: 11px;
+	width: 33px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Window .Files .catpdf ._132KB {
+	position: absolute;
+	left: 900px;
+	top: 48.837209302325576%;
+	transform: translate(0, -50%);
+	width: 80px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Storage_Storage .Window .Files .catpdf .catpdf_1 {
+	position: absolute;
+	left: 70px;
+	top: 11px;
+	width: 70px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+} */
+.Storage_Storage .MyFiles {
+	transform: translate(-50%, 0);
+	position: absolute;
+	left: 440px;
+	top: 334.1512451171875px;
+	width: 150px;
+	height: 36px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 36px;
+	font-weight: 600;
+	line-height: 36px;
+}
+.Storage_Storage input {
+	position: absolute;
+	transform: translate(120%, 0);
+	left: 500px;
+	top: 300px;
+	padding: 10px 20px;
+	/* background-color: #007bff; */
+	/* border: none; */
+	/* border-radius: 5px; */
+	cursor: pointer;
+
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 11px;
+	line-height: 100%;
+	/* identical to box height, or 11px */
+
+	color: #FFFFFF;
+
+	background: linear-gradient(99.35deg, #2309C1 14.24%, #B62ED8 90.34%);
+	border-radius: 13px;
+	
+
+}
+.Storage_Storage input:hover {
+	background: linear-gradient(99.35deg, #B62ED8 14.24%, #2309C1 90.34%);
+}
+
+
+.Storage_Storage ._ {
+	position: absolute;
+	left: 50%;
+	top: 1009.1512451171875px;
+	transform: translate(-50%, 0);
+	width: 1178px;
+	height: 34px;
+}
+.Storage_Storage ._ ._2024UkraineLvivAllrightsreserved {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 309px;
+	height: 18px;
+	color: rgba(162,178,196,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 16px;
+}
+.Storage_Storage ._ .Contus {
+	position: absolute;
+	left: 887px;
+	top: 1px;
+	width: 291px;
+	height: 33px;
+}
+.Storage_Storage ._ .Contus .Contactus {
+	position: absolute;
+	left: 0px;
+	top: 5px;
+	width: 216px;
+	height: 28px;
+	color: rgba(162,178,196,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 16px;
+}
+.Storage_Storage ._ .Contus .socialfooter {
+	position: absolute;
+	left: 115px;
+	top: 0px;
+	width: 176px;
+	height: 26px;
+	display: flex;
+	box-sizing: border-box;
+}
+.Storage_Storage ._ .Contus .socialfooter .image4 {
+	position: relative;
+	flex: none;
+	margin-right: 24px;
+	width: 26px;
+	height: 26px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Storage_Storage ._ .Contus .socialfooter .image5 {
+	position: relative;
+	flex: none;
+	margin-right: 24px;
+	width: 26px;
+	height: 26px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Storage_Storage ._ .Contus .socialfooter .image6 {
+	position: relative;
+	flex: none;
+	margin-right: 24px;
+	width: 26px;
+	height: 26px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Storage_Storage ._ .Contus .socialfooter .image7 {
+	position: relative;
+	flex: none;
+	margin-right: 24px;
+	width: 26px;
+	height: 26px;
+	object-fit: cover;
+	overflow: hidden;
+}

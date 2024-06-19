@@ -1,0 +1,356 @@
+
+.Help_Help {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 125%;
+	height: 125vh;
+	overflow: auto;
+	overflow-x: scroll;
+	background: linear-gradient(90deg, rgba(182, 46, 216, 1.00) 0.0%, rgba(35, 9, 193, 1.00) 100.0%);
+}
+
+.Help_Help .Text_Help {
+	position: absolute;
+	left: 50%;
+	top: 40%;
+	transform: translate(-50%, -50%);
+	width: 1170px;
+	height: 391px;
+	border-radius: 75px;
+}
+
+.Help_Help .Text_Help h1 {
+	position: absolute;
+	width: 1170px;
+	height: 64px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 64px;
+	font-weight: 600;
+	line-height: 64px;
+}
+
+.Help_Help .Text_Help h2 {
+	position: absolute;
+	width: 1170px;
+	height: 64px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 40px;
+	font-weight: 600;
+	line-height: 64px;
+}
+
+.Help_Help .Text_Help p {
+    position: absolute;
+    left: 0px;
+    width: 870px;
+    height: 144px;
+    color: rgba(255,255,255,1.00);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 36px;
+}
+
+
+
+
+.Help_Help .image2 {
+	position: absolute;
+	left: 905.00011670589447px;
+	top: 131px;
+	width: 962.6603951454163px;
+	height: 710.6843295097351px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 109px;
+	transform: rotate(18deg);
+}
+.Help_Help .Heder {
+	position: absolute;
+	left: 49.895833333333336%;
+	top: 46px;
+	transform: translate(-50%, 0);
+	width: 1167px;
+	height: 103px;
+}
+
+.Help_Help .Heder .Rectangle_Emailgmailcom_con {
+	position: absolute;
+	left: 908px;
+	top: 24px;
+	width: 262.4486389160156px;
+	height: 55px;
+	border-radius: 26px;
+}
+.Help_Help .Heder .Rectangle_Emailgmailcom_con .Rectangle_Emailgmailcom {
+	position: absolute;
+	left: 70%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 362.4486389160156px;
+	height: 55px;
+	background: linear-gradient(90deg, rgba(3, 240, 255, 1.00) 0.0%, rgba(26, 147, 153, 0.77) 100.0%);
+	border-radius: 26px;
+}
+.Help_Help .Heder .Rectangle_Emailgmailcom_con .Emailgmailcom {
+	position: absolute;
+	left: 45px;
+	top: 18px;
+	width: 172.29452514648438px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+	outline: none;
+	border: none;
+  	background: none;
+}
+
+
+
+
+.Help_Help .Heder .navigation {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1167px;
+	height: 103px;
+}
+.Help_Help .Heder .navigation .Logo0 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 103.1763687133789px;
+	height: 103px;
+}
+.Help_Help .Heder .navigation .Logo0 .Ellipse4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 103.1763687133789px;
+	height: 103px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 50%;
+}
+.Help_Help .Heder .navigation .Logo0 .image3 {
+	position: absolute;
+	left: -13.022216796875px;
+	top: 0px;
+	width: 130.22259521484375px;
+	height: 103px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Help_Help .Heder .navigation .Menu {
+	position: absolute;
+	left: 170px;
+	top: 41px;
+	width: 422.7225341796875px;
+	height: 21.09375px;
+}
+.Help_Help .Heder .navigation .Menu .Home {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 15.165880942885861%;
+	height: 100%;
+	color: rgba(254,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Help_Help .Heder .navigation .Menu .Storage {
+	position: absolute;
+	left: 109.1865234375px;
+	top: 0px;
+	width: 19.19433123790949%;
+	height: 100%;
+	color: rgba(254,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Help_Help .Heder .navigation .Menu .Help_1 {
+	position: absolute;
+	left: 235.40234375px;
+	top: 0px;
+	width: 11.137436062331952%;
+	height: 100%;
+	color: rgba(110,177,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Help_Help .Heder .navigation .Menu .AboutUs {
+	position: absolute;
+	left: 327.559814453125px;
+	top: 0px;
+	width: 22.511847220702162%;
+	height: 100%;
+	color: rgba(254,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Help_Help .Heder .navigation .LogandSignin {
+	position: absolute;
+	left: 800px;
+	top: 24px;
+	width: 367px;
+	height: 55px;
+	border-radius: 26px;
+}
+.Help_Help .Heder .navigation .LogandSignin .Signup {
+	position: absolute;
+	left: 197px;
+	top: 0px;
+	width: 170px;
+	height: 55px;
+	border-radius: 26px;
+}
+.Help_Help .Heder .navigation .LogandSignin .Signup .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 170px;
+	height: 55px;
+	background: linear-gradient(90deg, rgba(3, 240, 255, 1.00) 0.0%, rgba(26, 147, 153, 0.77) 100.0%);
+	border-radius: 26px;
+}
+.Help_Help .Heder .navigation .LogandSignin .Signup .SignUp {
+	position: absolute;
+	left: 49px;
+	top: 17px;
+	width: 76px;
+	height: 20px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Help_Help .Heder .navigation .LogandSignin .Login {
+	position: absolute;
+	left: 0px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 170px;
+	height: 55px;
+	border-radius: 26px;
+}
+.Help_Help .Heder .navigation .LogandSignin .Login .Rectangle1_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 170px;
+	height: 55px;
+	background: rgba(251,245,255,1.00);
+	border-radius: 26px;
+}
+.Help_Help .Heder .navigation .LogandSignin .Login .LogIn {
+	position: absolute;
+	left: 50.294117647058826%;
+	top: 49.09090909090909%;
+	transform: translate(-50%, -50%);
+	width: 59px;
+	height: 20px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.Help_Help ._ {
+	position: absolute;
+	left: 50%;
+	top: 1009px;
+	transform: translate(-50%, 0);
+	width: 1178px;
+	height: 34px;
+}
+.Help_Help ._ ._2024UkraineLvivAllrightsreserved {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 309px;
+	height: 18px;
+	color: rgba(162,178,196,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 16px;
+}
+.Help_Help ._ .Contus {
+	position: absolute;
+	left: 887px;
+	top: 1px;
+	width: 291px;
+	height: 33px;
+}
+.Help_Help ._ .Contus .Contactus {
+	position: absolute;
+	left: 0px;
+	top: 5px;
+	width: 216px;
+	height: 28px;
+	color: rgba(162,178,196,1.00);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 16px;
+}
+.Help_Help ._ .Contus .socialfooter {
+	position: absolute;
+	left: 115px;
+	top: 0px;
+	width: 176px;
+	height: 26px;
+	display: flex;
+	box-sizing: border-box;
+}
+.Help_Help ._ .Contus .socialfooter .image4 {
+	position: relative;
+	flex: none;
+	margin-right: 24px;
+	width: 26px;
+	height: 26px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Help_Help ._ .Contus .socialfooter .image5 {
+	position: relative;
+	flex: none;
+	margin-right: 24px;
+	width: 26px;
+	height: 26px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Help_Help ._ .Contus .socialfooter .image6 {
+	position: relative;
+	flex: none;
+	margin-right: 24px;
+	width: 26px;
+	height: 26px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Help_Help ._ .Contus .socialfooter .image7 {
+	position: relative;
+	flex: none;
+	margin-right: 24px;
+	width: 26px;
+	height: 26px;
+	object-fit: cover;
+	overflow: hidden;
+}
